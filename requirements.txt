@@ -1,0 +1,11 @@
+BeautifulSoup4
+requests
+flask
+flask_cors
+html5lib
+telepot
+dnspython
+pymongo
+snappy
+gssapi
+srv
